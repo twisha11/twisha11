@@ -4,7 +4,7 @@
 
 <h1>Skills</h1>
 <p>1] Machine Learning</p>
-<p>2] Python Prograning</p>
+<p>2] Python Programming</p>
 <p>3] Website Development</p>
 <p>4] Android Application Development</p>
 
