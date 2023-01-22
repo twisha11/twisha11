@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/twisha11/twisha11/main/Black%20Yellow%20Minimalist%20Designer%20Linkedin%20Banner%20(3).gif)]
+[![MasterHead](https://raw.githubusercontent.com/twisha11/twisha11/main/Black%20Yellow%20Minimalist%20Designer%20Linkedin%20Banner%20(3).gif)]
 <h1 align="center">Hi 👋, I'm Patel Twisha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twisha&label=Profile%20views&color=0e75b6&style=flat" alt="twisha" /> </p>
 
@@ -16,5 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twisha&show_icons=true&locale=en" alt="twisha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twisha&" alt="twisha" /></p>
 
