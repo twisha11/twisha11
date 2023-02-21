@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twisha&label=Profile%20views&color=0e75b6&style=flat" alt="twisha" /> </p>
 
 <h1>Skills</h1>
-<p>1] Machine Learning</p>
-<p>2] Python Programming</p>
-<p>3] Website Development</p>
-<p>4] Android Application Development</p>
+
+<p>🐍 Python Programming</p>
+<p>💻 Website Development</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
