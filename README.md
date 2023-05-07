@@ -15,7 +15,7 @@
   </a>
 </div> -->
 
-<h2 align="center">Aspiring Python Programmer with a Strong Interest in Developing Innovative Solutions for Real-World Challenges</h3>
+<h3 align="center">Aspiring Python Programmer with a Strong Interest in Developing Innovative Solutions for Real-World Challenges</h3>
 
 <br><br>
 
